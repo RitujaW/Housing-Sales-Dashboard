@@ -14,3 +14,5 @@ Designed and published a clean, user-friendly dashboard online to make insights 
 
 Outcome:
 Improved understanding of pricing trends and factors influencing property value. Demonstrated strong skills in data storytelling and dashboard design.
+
+Tableau Public Link: https://public.tableau.com/app/profile/rutuja.wardole8600/viz/KingCountyHouseSalesDashboard_17439967363840/KingCountyHouseSales
